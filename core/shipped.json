@@ -36,7 +36,8 @@
     "updatenotification",
     "user_ldap",
     "user_status",
-    "workflowengine"
+    "workflowengine",
+    "zimbradrive"
   ],
   "alwaysEnabled": [
     "files",
@@ -48,6 +49,7 @@
     "oauth2",
     "settings",
     "twofactor_backupcodes",
-    "workflowengine"
+    "workflowengine",
+    "zimbradrive"
   ]
 }
